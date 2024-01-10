@@ -1,5 +1,5 @@
 .container{
-    background-image: url('../images/resources/Banner\ Image.png');
+    background-image: url('./images/resources/Banner\ Image.png');
     height: 100vh;
     width: 1300px;
     background-size: cover;
